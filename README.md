@@ -13,3 +13,17 @@
 
 ## Ejemplo 2.
 
+#### Usamos `docker run` para iniciar con ubuntu para trabajar con el sistema operativo. Además el comando `/ls` para listar el directorio raiz.
+
+![Captura de pantalla 1](https://user-images.githubusercontent.com/82807688/167293568-032fa6bf-7458-4897-bf61-7fcc7563d848.png)
+
+## Ejemplo 4.
+
+#### Iniciamos docker en debian usando el comando `docker run -it -w`.
+#### Usamos el comando `ls` para listar.
+![Captura de pantalla 1](https://user-images.githubusercontent.com/82807688/167293776-af4037d6-8ef4-422b-8f0b-fa331a8c9521.png)
+
+#### Para saber que contenedores tenemos en docker usando `docker ps`.
+
+
+
