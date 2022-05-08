@@ -24,6 +24,10 @@
 ![Captura de pantalla 1](https://user-images.githubusercontent.com/82807688/167293776-af4037d6-8ef4-422b-8f0b-fa331a8c9521.png)
 
 #### Para saber que contenedores tenemos en docker usando `docker ps`.
+![Captura de pantalla 2](https://user-images.githubusercontent.com/82807688/167293838-ec751ba6-c47c-4427-8284-eea87a7fb237.png)
 
+
+#### Para saber que comando estan parados usamos el comando añadimos el comando anterior más `-a`.
+![Captura de pantalla 3](https://user-images.githubusercontent.com/82807688/167293892-edd4ae2e-a39f-4f74-a667-c909f800df62.png)
 
 
