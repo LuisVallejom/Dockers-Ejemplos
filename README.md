@@ -14,8 +14,9 @@
 ## Ejemplo 2.
 
 #### Usamos `docker run` para iniciar con ubuntu para trabajar con el sistema operativo. Además el comando `/ls` para listar el directorio raiz.
+![Captura de pantalla 1](https://user-images.githubusercontent.com/82807688/167393555-d29b1e0b-9933-43a7-9787-5601be1f39ed.png)
 
-![Captura de pantalla 1](https://user-images.githubusercontent.com/82807688/167293568-032fa6bf-7458-4897-bf61-7fcc7563d848.png)
+
 
 ## Ejemplo 4.
 
